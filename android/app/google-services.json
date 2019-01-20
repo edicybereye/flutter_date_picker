@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "457145074853",
+    "firebase_url": "https://logintest-1e91d.firebaseio.com",
+    "project_id": "logintest-1e91d",
+    "storage_bucket": "logintest-1e91d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457145074853:android:67a5bb4b811f1579",
+        "android_client_info": {
+          "package_name": "com.logintest.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457145074853-burcafbqabtak7bktg3v3pfkne516m90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logintest.apps",
+            "certificate_hash": "7789bd58b0c2fcba2dd007b79013f9ad96c50718"
+          }
+        },
+        {
+          "client_id": "457145074853-r19t05bc7a1i33s2eaadjjd7faneovgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWd88q_DCY3f7-AMfu3PYd6redAtauEZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457145074853-r19t05bc7a1i33s2eaadjjd7faneovgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
